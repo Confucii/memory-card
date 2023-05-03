@@ -1,0 +1,19 @@
+.Card {
+  padding: 10px 25px 5px;
+  color: #b2a4ff;
+  border: 1px solid #ffdeb4;
+  background-color: #fdf7c3;
+  font-size: 1.2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.Card:hover {
+  box-shadow: rgba(178, 164, 255, 1) 0px 5px 15px;
+}
+
+.Card img {
+  display: block;
+}
