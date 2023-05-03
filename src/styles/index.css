@@ -7,6 +7,11 @@
   font-family: inherit;
 }
 
+:root {
+  --elem-bg-color: #fdf7c3;
+  --text-color: #b2a4ff;
+}
+
 html {
   font-size: 32px;
 }

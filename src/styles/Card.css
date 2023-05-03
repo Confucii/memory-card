@@ -1,8 +1,7 @@
 .Card {
   padding: 10px 25px 5px;
-  color: #b2a4ff;
-  border: 1px solid #ffdeb4;
-  background-color: #fdf7c3;
+  color: var(--text-color);
+  background-color: var(--elem-bg-color);
   font-size: 1.2rem;
   display: flex;
   flex-direction: column;

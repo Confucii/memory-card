@@ -1,7 +1,13 @@
 .Score-Holder {
-  color: #b2a4ff;
+  color: var(--text-color);
   padding: 5px 15px;
   border-radius: 5px;
-  width: fit-content;
-  background-color: #fdf7c3;
+  width: 250px;
+  font-size: 1.5rem;
+  background-color: var(--elem-bg-color);
+  justify-self: end;
+}
+
+.Score-Holder + .Score-Holder {
+  justify-self: start;
 }

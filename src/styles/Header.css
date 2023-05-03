@@ -1,0 +1,6 @@
+.Header {
+  background-color: var(--elem-bg-color);
+  color: var(--text-color);
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
